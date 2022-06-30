@@ -3,7 +3,7 @@
 - I’m interested in solving problems and changing the world by the instrumentality of Software Engineering and other unique skills that I've got
 - I’m currently being trained to become a full stack software engineer in ALX
 - 💞️ I’m willing and ready to work with any serious team of software engineers, who consider me skillful enough at any point in time
-- You can contact me using the details that follows:
+- YOU CAN CONTACT ME BY USING THE CONTACT DETAILS THAT FOLLOWS:
 - email === topman4loveworld@gmail.com, topman4loveworld@yahoo.com, tpauldike@yahoo.com
 - Facebook === tpauldike, tmamusiclessons
 - Mobile and WhatsApp contact === +234 9162654320
