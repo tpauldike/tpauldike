@@ -12,10 +12,10 @@ My skills in the tech world include:
 
 ### Contact or Connect with Me via:
 - Email: [Gmail](mailto:topman4loveworld@gmail.com) or [YahooMail](mailto:topman4loveworld@yahoo.com)
-- Facebook: [@tpauldike](fb.me/tpauldike) or TMA [@tmamusiclessons](fb.me/tmamusiclessons)
+- Facebook: [@tpauldike](https://facebook.com/tpauldike) or TMA [@tmamusiclessons](https://facebook.com/tmamusiclessons)
 - [WhatsApp](https://wa.link/66ef36)
 - [Twitter](https://twitter.com/tpauldike)
-- [LinkedIn](https://https://www.linkedin.com/in/topman-paul-dike-bbb330143/)
+- [LinkedIn](https://www.linkedin.com/in/topman-paul-dike-bbb330143)
 - [Instagram](https://instagram.com/pauldiketopman)
 - [Github](https://github.com/tpauldike)
 - [Tiktok](https://tiktok.com/@tpauldike)
