@@ -8,7 +8,7 @@ My skills in the tech world include:
 - C programming
 - Python
 - MySQL
-- A bit of DevOps ***and more***
+- DevOps ***and more***
 
 ### Contact or Connect with Me via:
 - Email: [Gmail](mailto:topman4loveworld@gmail.com) or [YahooMail](mailto:topman4loveworld@yahoo.com)
