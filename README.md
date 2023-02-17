@@ -16,12 +16,13 @@ My skills in the tech world include:
 - Email: [Gmail](mailto:topman4loveworld@gmail.com) or [YahooMail](mailto:topman4loveworld@yahoo.com)
 - Facebook: [@tpauldike](https://facebook.com/tpauldike) or TMA [@tmamusiclessons](https://facebook.com/tmamusiclessons)
 - [WhatsApp](https://wa.link/66ef36)
+- [YouTube](https://youtube.com/@tpauldike)
 - [Twitter](https://twitter.com/tpauldike)
 - [LinkedIn](https://www.linkedin.com/in/topman-paul-dike-bbb330143)
-- [Instagram](https://instagram.com/pauldiketopman)
+- [Instagram](https://instagram.com/pauldiketopman)\
+- [Medium](https://tpauldike.medium.com/)
 - [Github](https://github.com/tpauldike)
 - [Tiktok](https://tiktok.com/@tpauldike)
-- [YouTube](https://youtube.com/@tpauldike)
 
 You could as well search for me on **slack** if you are currently running the ALX SE program
 
