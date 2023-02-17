@@ -19,7 +19,7 @@ My skills in the tech world include:
 - [YouTube](https://youtube.com/@tpauldike)
 - [Twitter](https://twitter.com/tpauldike)
 - [LinkedIn](https://www.linkedin.com/in/topman-paul-dike-bbb330143)
-- [Instagram](https://instagram.com/pauldiketopman)\
+- [Instagram](https://instagram.com/pauldiketopman)
 - [Medium](https://tpauldike.medium.com/)
 - [Github](https://github.com/tpauldike)
 - [Tiktok](https://tiktok.com/@tpauldike)
