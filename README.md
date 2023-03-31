@@ -18,7 +18,7 @@ My skills in the tech world include:
 - [WhatsApp](https://wa.link/66ef36)
 - [YouTube](https://youtube.com/@tpauldike)
 - [Twitter](https://twitter.com/tpauldike)
-- [LinkedIn](https://www.linkedin.com/in/topman-paul-dike-bbb330143)
+- [LinkedIn](https://www.linkedin.com/in/tpauldike)
 - [Instagram](https://instagram.com/pauldiketopman)
 - [Medium](https://tpauldike.medium.com/)
 - [Github](https://github.com/tpauldike)
