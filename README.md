@@ -1,5 +1,5 @@
-![Profile Banner](https://giphy.com/embed/ekjmhJUGHJm7FC4Juo)
-<h1 align="center">Welcome! I am Topman Paul-Dike</h1>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/ekjmhJUGHJm7FC4Juo" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<h1 align="center">Hi! I am Topman Paul-Dike</h1>
 <h3 align="center">A Musician and Fullstack Developer that is so interested in working remotely</h3>
 <img align="right" alt="Software Engineer" width="400" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
 
@@ -15,11 +15,11 @@
 
 - 🤝 I’m looking for help with [ArtisanGig](https://github.com/tpauldike/artisan_gig)
 
-- 📝 You can see some of my articles here [https://github.com/tpauldike/my_tech_articles](https://github.com/tpauldike/my_tech_articles)
+- 📝 You can see some of my articles [here](https://github.com/tpauldike/my_tech_articles)
 
 - 💬 Ask me about **ALX Software Engineering and CodeTrybe**
 
-- 📫 Wanna reach me? Please [**send me an email**](mailto:topman4loveworld@gmail.com)
+- 📫 Wanna reach me? Please [**send me an email**](mailto:topman4loveworld@gmail.com) or use any of my social media handles below
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
