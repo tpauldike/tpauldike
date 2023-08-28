@@ -1,4 +1,4 @@
-<img src="https://giphy.com/embed/26tn33aiTi1jkl6H6" style="width:100%; height:0; padding-bottom:56%; position:relative; width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed"><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>
+[![Profile Banner](https://giphy.com/embed/26tn33aiTi1jkl6H6)
 <h1 align="center">Hi! I am Topman Paul-Dike</h1>
 <h3 align="center">A Musician and Fullstack Developer that is so interested in working remotely</h3>
 <img align="right" alt="Software Engineer" width="400" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
