@@ -1,5 +1,5 @@
 ![Profile Banner](https://github.com/tpauldike/rough_work/blob/main/designs/github_banner.gif)
-<h1 align="center">Hi! I am Topman Paul-Dike</h1>
+<h1 align="center">Hello! I'm Topman Paul-Dike</h1>
 <h3 align="center">A Musician and Fullstack Developer, interested in working remotely</h3>
 <img align="right" alt="Software Engineer" width="400" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
 
