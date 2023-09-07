@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tpauldike" target="blank"><img src="https://img.shields.io/twitter/follow/tpauldike?logo=twitter&style=for-the-badge" alt="tpauldike" /></a> </p>
 
-- 🔭 Currently, I am working on a full `React` app, named [ChatMe](https://github.com/tpauldike/chat_me)
+- 🔭 Currently, I am working on a full `React` app, named [GPT-3](https://github.com/tpauldike/gpt3)
 
 - 🌱 I’m currently learning **React, MongoDB, FastAPI, Redis**
 
