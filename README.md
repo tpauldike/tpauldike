@@ -9,7 +9,7 @@
 
 - 🔭 Currently, I am working on a full `React` app, named [GPT-3](https://github.com/tpauldike/gpt3)
 
-- 🌱 I’m currently learning **React, MongoDB, FastAPI, Redis**
+- 🌱 I’m currently learning **FastAPI**
 
 - 👯 I’m looking to collaborate on [PricePrecision](https://github.com/tpauldike/js-ES6-react/tree/main/projects/2-price_precision)
 
