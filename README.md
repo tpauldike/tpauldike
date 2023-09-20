@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tpauldike" target="blank"><img src="https://img.shields.io/twitter/follow/tpauldike?logo=twitter&style=for-the-badge" alt="tpauldike" /></a> </p>
 
-- 🔭 Currently, I am working on a full `React` app, named [GPT-3](https://github.com/tpauldike/gpt3)
+- 🔭 Currently, I am working on a `React` app [GPT-3](https://github.com/tpauldike/gpt3) and a web app [LearnWithMe](https://github.com/tpauldike/LearnWithMe)
 
 - 🌱 I’m currently learning **FastAPI**
 
