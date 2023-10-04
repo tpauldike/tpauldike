@@ -9,7 +9,7 @@
 
 - 🔭 Currently, I am working on a `React` app [GPT-3](https://github.com/tpauldike/gpt3) and a web app [LearnWithMe](https://github.com/tpauldike/LearnWithMe)
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m currently learning **FastAPI** and **NestJs**
 
 - 👯 I’m looking to collaborate on [PricePrecision](https://github.com/tpauldike/js-ES6-react/tree/main/projects/2-price_precision)
 
