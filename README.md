@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/tpauldike" target="blank"><img src="https://img.shields.io/twitter/follow/tpauldike?logo=twitter&style=for-the-badge" alt="tpauldike" /></a> </p>
 
-- 🔭 Currently, I am working on a `React` app [GPT-3](https://github.com/tpauldike/gpt3) and a web app [LearnWithMe](https://github.com/tpauldike/LearnWithMe)
+- 🔭 Currently, I am working on the apps `leanWithMe`, `DailyTracker`, `YawoYawo`, and `Freelance`
 
 - 🌱 I’m currently learning **FastAPI** and **NestJs**
 
-- 👯 I’m looking to collaborate on [PricePrecision](https://github.com/tpauldike/js-ES6-react/tree/main/projects/2-price_precision)
+- 👯 I’m looking to collaborate on *nothing for now*
 
-- 🤝 I’m looking for help with [ArtisanGig](https://github.com/tpauldike/artisan_gig)
+- 🤝 I’m looking for help with *nothing as well*
 
-- 📝 You can see some of my articles [here](https://github.com/tpauldike/my_tech_articles)
+- 📝 I have a few articles but several [video tutorials](https://youtube.com/@tpauldike)
 
 - 💬 Ask me about **ALX Software Engineering and CodeTrybe**
 
