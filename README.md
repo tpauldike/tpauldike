@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tpauldike" target="blank"><img src="https://img.shields.io/twitter/follow/tpauldike?logo=twitter&style=for-the-badge" alt="tpauldike" /></a> </p>
 
-- 🔭 Currently, I am working on the apps `leanWithMe`, `DailyTracker`, `YawoYawo`, and `Freelance`
+- 🔭 Currently, I am working on the apps `leanWithMe`, `DailyTracker`, `YawoYawo`, `tradeQuick` and `Freelance`
 
 - 🌱 I’m currently learning **FastAPI** and **NestJs**
 
